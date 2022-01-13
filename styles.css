@@ -69,6 +69,7 @@ button{
 .second{
     display: flex;
     flex-direction: column;
+    margin-bottom: 80px;
 }
 
 .content-2{
@@ -90,10 +91,21 @@ h3{
     font-weight: bolder;
 }
 
+.info{
+    text-align: center;
+    font-size: 18px;
+    color: #4a4d53;
+    margin-top: 5px;
+}
+
 .secondary-img{
     height: 160px;
     width: 160px;
     border-radius: 5px;
+}
+
+.third{
+    background-color: #E5E7EB;
 }
 
 
